@@ -1,3 +1,10 @@
+# Rails Playground
+
+This is a simple rails playground. The idea is to create a few simple models, controllers, etc to mess with.
+
+
+
+
 # Rails on Replit
 
 This is a template to get you started with Rails on Replit. It's ready to go so you can just hit run and start coding!

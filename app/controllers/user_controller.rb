@@ -10,7 +10,7 @@ class UserController < ApplicationController
 
   private
   def allowed_user_params
-    #check mode/user.rb to edit parameters
+    #check model/user.rb to edit parameters
     params.require(:user).permit(:username, :password)
   end
     
